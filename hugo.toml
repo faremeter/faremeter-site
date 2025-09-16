@@ -1,6 +1,14 @@
 baseURL = 'https://faremeter.xyz/'
 languageCode = 'en-us'
 title = 'Faremeter'
+uglyURLs = true
+
+[params]
+fullWidthTheme = true
+centerTheme = true
+
+[params.logo]
+logoText = "Faremeter"
 
 [module]
 [[module.imports]]
