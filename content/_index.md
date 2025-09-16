@@ -38,11 +38,12 @@ Faremeter can enable payment strategies wherever you need them. It can deploy wi
 Faremeter takes existing and emerging standards to create a plugin system for HTTP
 and the existing `402 Payment Required` concepts that is standard, wallet, and blockchain agnostic.
 
-Faremeter is:
+[Faremeter](https://github.com/faremeter/faremeter/) is a collection of libraries, tools, and applications designed to allow agents and other utilities to transparently make web3 payments using web2 infrastructure.
 
-- [Faremeter](https://github.com/faremeter/faremeter/) - a collection of libraries, tools, and applications designed to allow agents and other utilities to transparently make web3 payments using web2 infrastructure.
-- [faremeter-fetch](https://github.com/faremeter/faremeter/blob/main/packages/fetch) - a pluggable client library
-- [faremeter-middleware](https://github.com/faremeter/faremeter/blob/main/packages/middleware) - a configurable middleware
+Published packages include:
+- [@faremeter/fetch](https://github.com/faremeter/faremeter/blob/main/packages/fetch) - a pluggable client library
+- [@faremeter/middleware](https://github.com/faremeter/faremeter/blob/main/packages/middleware) - a configurable middleware
+- [@faremeter/facilitator](https://github.com/faremeter/faremeter/blob/main/packages/facilitator) - a configurable facilitator
 
 ## Next Steps
 
