@@ -28,6 +28,8 @@ Faremeter can enable payment strategies wherever you need them. It can deploy wi
 - Base-Sepolia
 - Coinbase's x402
 - Base-mainnet (coming soon)
+- SKALE Europa Testnet
+- SKALE Europa Mainnet (coming soon)
 - Cloudflare's Pay-Per-Crawl (coming soon)
 - L402 (coming soon)
 
