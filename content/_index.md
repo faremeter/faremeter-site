@@ -24,10 +24,11 @@ Faremeter can enable payment strategies wherever you need them. It can deploy wi
 
 ## What We Support
 
-- Solana
+- Solana-Mainnet
+- Solana-Devnet
+- Base-Mainnet
 - Base-Sepolia
 - Coinbase's x402
-- Base-mainnet (coming soon)
 - Cloudflare's Pay-Per-Crawl (coming soon)
 - L402 (coming soon)
 
