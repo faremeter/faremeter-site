@@ -28,7 +28,7 @@ Faremeter can enable payment strategies wherever you need them. It can deploy wi
 - Solana-Devnet
 - Base-Mainnet
 - Base-Sepolia
-- Coinbase's x402
+- Coinbase's x402 v1 & v2
 - Cloudflare's Pay-Per-Crawl (coming soon)
 - L402 (coming soon)
 
