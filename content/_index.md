@@ -51,7 +51,7 @@ Published packages include:
 
 ## Next Steps
 
-- Check out the [Faremeter Docs](https://www.faremeter.xyz).
+- Check out the [Faremeter Docs](https://docs.faremeter.xyz).
 - Come join [Faremeter Hackers](https://t.me/+KqsD2y7Qrck1MDgx) on Telegram.
 
 ---
